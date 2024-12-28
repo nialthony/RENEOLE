@@ -1,0 +1,11 @@
+{
+  "name": "linktree-webpage",
+  "version": "1.0.0",
+  "description": "A simple personal webpage mimicking Linktree.",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Nial",
+  "license": "MIT"
+}
